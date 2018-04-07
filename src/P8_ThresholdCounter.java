@@ -21,7 +21,7 @@ public class P8_ThresholdCounter {
             int n11 = sc.nextInt();
         }
         if ( product >= 0 );
-        System.out.println("The count of numbers above the threshold is " + (product >= threshold));
+        System.out.println("The count of numbers above the threshold is " + product );
 	}
 
 }
