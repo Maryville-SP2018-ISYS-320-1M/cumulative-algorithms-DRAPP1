@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
 /*
-	ISYS 320
-	Name(s):
-	Date: 
+ISYS 320
+	Name(s): Dave Rapp
+	Date: 4-5-18
 */
 
 /*

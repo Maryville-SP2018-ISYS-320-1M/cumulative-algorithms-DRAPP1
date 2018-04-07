@@ -1,12 +1,14 @@
 /*
-	ISYS 320
-	Name(s):
-	Date: 
+ISYS 320 DONE DONE DONE!!!
+	Name(s): Dave Rapp
+	Date: 4-5-18
 */
 
 /*
 3. What problems did you identify in the sumTo method below?
-
+- Added an int
+- added return statement
+- should count to 5
 
 */
 
@@ -23,6 +25,7 @@ public class P3_FixTheSumTo {
 	        int sum = 0; 
 	        sum += i;
 	    }
+		return n;
 	}
 
 }
