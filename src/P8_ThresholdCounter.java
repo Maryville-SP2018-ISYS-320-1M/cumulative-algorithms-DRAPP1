@@ -1,7 +1,7 @@
 /*
-	ISYS 320
-	Name(s): DAVE RAPP
-	Date: 4-5-18
+ISYS 320
+Name(s): DAVE RAPP
+Date: 4-5-18
 */
 import java.util.Scanner;
 public class P8_ThresholdCounter {
@@ -22,6 +22,7 @@ public class P8_ThresholdCounter {
         }
         if ( product >= 0 );
         System.out.println("The count of numbers above the threshold is " + product );
+       
 	}
 
 }
