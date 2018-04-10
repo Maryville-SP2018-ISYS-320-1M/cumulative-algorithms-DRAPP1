@@ -15,13 +15,15 @@ public class P8_ThresholdCounter {
         System.out.println("Whats the threshold??");
         int threshold = sc.nextInt();
 
-        double product = 1.0;
+        int counter = 0;
         for (int i = 1; i <= n; i++) {
             System.out.println("Enter a number");
             int n11 = sc.nextInt();
+            
+            if(n11 > threshold) counter++;
         }
-        if ( product >= 0 );
-        System.out.println("The count of numbers above the threshold is " + product );
+        if ( counter >= 0 )
+        System.out.println("The count of numbers above the threshold is " + counter );
        
 	}
 
